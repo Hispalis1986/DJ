@@ -1,4 +1,0 @@
-- express instalado
-- nodemailer instalado
-- cors instalado
-- multer instalado
